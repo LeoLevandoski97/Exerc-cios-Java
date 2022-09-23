@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26db623c-d361-4760-899e-52263c6d12db" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Exerc-cios-Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Exerc-cios-Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Exerc-cios-Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Exer4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exer4.java" afterDir="false" />
@@ -37,7 +38,6 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -67,7 +67,7 @@
       <workItem from="1663807107008" duration="144000" />
       <workItem from="1663885272933" duration="1000" />
       <workItem from="1663885294633" duration="8000" />
-      <workItem from="1663892991278" duration="819000" />
+      <workItem from="1663892991278" duration="433000" />
     </task>
     <servers />
   </component>
