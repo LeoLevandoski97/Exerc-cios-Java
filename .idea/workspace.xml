@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26db623c-d361-4760-899e-52263c6d12db" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Exerc-cios-Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Exerc-cios-Java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exer4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exer4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matriz.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +39,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Matriz">
     <configuration name="Exer4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exer4" />
       <module name="Exerc-cios-Java" />
@@ -50,8 +47,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Matriz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Matriz" />
+      <module name="Exerc-cios-Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Matriz" />
         <item itemvalue="Application.Exer4" />
       </list>
     </recent_temporary>
@@ -67,7 +72,7 @@
       <workItem from="1663807107008" duration="144000" />
       <workItem from="1663885272933" duration="1000" />
       <workItem from="1663885294633" duration="8000" />
-      <workItem from="1663892991278" duration="819000" />
+      <workItem from="1663892991278" duration="1434000" />
     </task>
     <servers />
   </component>
