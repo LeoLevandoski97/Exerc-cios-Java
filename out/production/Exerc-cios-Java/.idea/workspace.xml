@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26db623c-d361-4760-899e-52263c6d12db" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MetodoCarro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewAlgoritimo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exerc-cios-Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exerc-cios-Java/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +21,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Exer4.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NewAlgoritimo.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AlgoritimoListagem.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Matriz.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Calculadora.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -39,23 +49,37 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.Calculadora">
-    <configuration name="Calculadora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Calculadora" />
+  <component name="RunManager" selected="Application.NewAlgoritimo">
+    <configuration name="AlgoritimoArmazenamentoCincoNomes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AlgoritimoArmazenamentoCincoNomes" />
       <module name="Exerc-cios-Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exer4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exer4" />
+    <configuration name="AlgoritimoListagem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AlgoritimoListagem" />
       <module name="Exerc-cios-Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Matriz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Matriz" />
+    <configuration name="AlgoritimoVetor5Nomes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AlgoritimoVetor5Nomes" />
+      <module name="Exerc-cios-Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AlgoritimoVetorNomes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AlgoritimoVetorNomes" />
+      <module name="Exerc-cios-Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewAlgoritimo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NewAlgoritimo" />
       <module name="Exerc-cios-Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -63,9 +87,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Calculadora" />
-        <item itemvalue="Application.Matriz" />
-        <item itemvalue="Application.Exer4" />
+        <item itemvalue="Application.NewAlgoritimo" />
+        <item itemvalue="Application.AlgoritimoListagem" />
+        <item itemvalue="Application.AlgoritimoArmazenamentoCincoNomes" />
+        <item itemvalue="Application.AlgoritimoVetorNomes" />
+        <item itemvalue="Application.AlgoritimoVetor5Nomes" />
       </list>
     </recent_temporary>
   </component>
@@ -81,6 +107,16 @@
       <workItem from="1663885272933" duration="1000" />
       <workItem from="1663885294633" duration="8000" />
       <workItem from="1663892991278" duration="1546000" />
+      <workItem from="1663894569996" duration="1956000" />
+      <workItem from="1664316365165" duration="757000" />
+      <workItem from="1664317129715" duration="2000" />
+      <workItem from="1664317135538" duration="9000" />
+      <workItem from="1664317147429" duration="32000" />
+      <workItem from="1664317183706" duration="1000" />
+      <workItem from="1664317188751" duration="88000" />
+      <workItem from="1664317281058" duration="8427000" />
+      <workItem from="1664488824815" duration="5000" />
+      <workItem from="1664488837570" duration="926000" />
     </task>
     <servers />
   </component>
