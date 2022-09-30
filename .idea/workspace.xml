@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26db623c-d361-4760-899e-52263c6d12db" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/MetodoCarro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NewAlgoritimo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exerc-cios-Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exerc-cios-Java/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +113,8 @@
       <workItem from="1664317188751" duration="88000" />
       <workItem from="1664317281058" duration="8427000" />
       <workItem from="1664488824815" duration="5000" />
-      <workItem from="1664488837570" duration="5924000" />
+      <workItem from="1664488837570" duration="6815000" />
+      <workItem from="1664497474572" duration="611000" />
     </task>
     <servers />
   </component>
