@@ -44,7 +44,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.NewAlgoritimo">
+  <component name="RunManager" selected="Application.MetodoCarro">
     <configuration name="AlgoritimoArmazenamentoCincoNomes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AlgoritimoArmazenamentoCincoNomes" />
       <module name="Exerc-cios-Java" />
@@ -82,8 +82,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NewAlgoritimo" />
         <item itemvalue="Application.MetodoCarro" />
+        <item itemvalue="Application.NewAlgoritimo" />
         <item itemvalue="Application.AlgoritimoListagem" />
         <item itemvalue="Application.AlgoritimoArmazenamentoCincoNomes" />
         <item itemvalue="Application.AlgoritimoVetorNomes" />
@@ -114,6 +114,7 @@
       <workItem from="1664488837570" duration="6815000" />
       <workItem from="1664497474572" duration="772000" />
       <workItem from="1664499765191" duration="123000" />
+      <workItem from="1664499894578" duration="55000" />
     </task>
     <servers />
   </component>

@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="26db623c-d361-4760-899e-52263c6d12db" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/MetodoCarro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NewAlgoritimo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exerc-cios-Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exerc-cios-Java/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="26db623c-d361-4760-899e-52263c6d12db" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,15 +59,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AlgoritimoVetor5Nomes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AlgoritimoVetor5Nomes" />
+    <configuration name="AlgoritimoVetorNomes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AlgoritimoVetorNomes" />
       <module name="Exerc-cios-Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AlgoritimoVetorNomes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AlgoritimoVetorNomes" />
+    <configuration name="MetodoCarro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MetodoCarro" />
       <module name="Exerc-cios-Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,10 +83,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.NewAlgoritimo" />
+        <item itemvalue="Application.MetodoCarro" />
         <item itemvalue="Application.AlgoritimoListagem" />
         <item itemvalue="Application.AlgoritimoArmazenamentoCincoNomes" />
         <item itemvalue="Application.AlgoritimoVetorNomes" />
-        <item itemvalue="Application.AlgoritimoVetor5Nomes" />
       </list>
     </recent_temporary>
   </component>
@@ -116,7 +111,10 @@
       <workItem from="1664317188751" duration="88000" />
       <workItem from="1664317281058" duration="8427000" />
       <workItem from="1664488824815" duration="5000" />
-      <workItem from="1664488837570" duration="926000" />
+      <workItem from="1664488837570" duration="6815000" />
+      <workItem from="1664497474572" duration="772000" />
+      <workItem from="1664499765191" duration="123000" />
+      <workItem from="1664499894578" duration="55000" />
     </task>
     <servers />
   </component>
